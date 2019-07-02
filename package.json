@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/easy-mock-templates/axios.git"
+    "url": "git+https://github.com/narci2010/axios.git"
   },
   "devDependencies": {
     "axios": "^0.16.1",
